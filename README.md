@@ -13,11 +13,6 @@ Currently exploring **NLP, LLMs, and AI-powered tools**.
 
 ---
 
-## 🔍 Actively Looking For  
-- Data Scientist roles  
-- Data Analyst / Business Intelligence positions  
-- AI Research and ML Engineering opportunities  
-
 📫 **Reach me at:** [devanshiledwani193@gmail.com](mailto:devanshiledwani193@gmail.com)
 
 ---
