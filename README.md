@@ -2,8 +2,8 @@
 🚀 **Data Analyst | Data Scientist | AI & Cloud Enthusiast**  
 
 🎓 MS in Applied Data Science | University of Chicago  
-📍 Based in Chicago, IL | Open to Remote & Hybrid Roles  
-💼 On OPT | Authorized to work in the U.S. for 3 years without sponsorship  
+📍 Based in Chicago, IL 
+
 
 ---
 
