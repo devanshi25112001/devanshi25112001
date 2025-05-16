@@ -13,16 +13,6 @@ Currently exploring **NLP, LLMs, and AI-powered tools**.
 
 ---
 
-📫 **Reach me at:** [devanshiledwani193@gmail.com](mailto:devanshiledwani193@gmail.com)
-
----
-
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devanshi%20Ledwani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshi-ledwani)  
-[![GitHub](https://img.shields.io/badge/GitHub-devanshi25112001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshi25112001)
-
----
-
 ## 💻 Tech Stack
 
 <details open>
